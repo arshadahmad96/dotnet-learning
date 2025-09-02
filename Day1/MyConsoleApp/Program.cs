@@ -1,11 +1,20 @@
-﻿using Catalog;
-
-class Program
+﻿
+using Catalog;
+using HR;
+int count = 45;
+count++;
+if (count > 50)
 {
-    static void Main(string[] args)
-    {
-        Product product = new Product("Laptop", 999.99m);
-        Console.WriteLine($"Product Name: {product.GetName()}");
-        Console.WriteLine($"Product Price: {product.GetPrice()}");
-    }
+    Console.WriteLine("Count exceeded 50");
 }
+else
+{
+    Console.WriteLine("Count is within the limit");
+}
+Console.WriteLine(count);
+
+Product product = new Product("Laptop", 1500.00m);
+Console.WriteLine($"Product Name: {product.GetName()}, Price: {product.GetPrice()}");
+
+
+SalesEmployee se = new SalesEmployee("John Doe", 12345, 50000);
