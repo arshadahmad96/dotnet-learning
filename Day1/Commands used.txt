@@ -1,0 +1,8 @@
+1. dotnet new console -o HelloApp
+// This will create .net console application will be created
+// .csproj file all the dependecy related to project will be kept under this file.
+2. dontnet build inside the HelloApp folder.
+// this is going to build the application and will create dll file will be created
+  dll---> dynamic linked library
+// if many version of .net is installed and we wanted to create project with lower version then 
+3. dontnet new console -n MyConsoleApp -f net8.0
