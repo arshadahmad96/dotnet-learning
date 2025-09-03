@@ -13,6 +13,9 @@ namespace Catalog
         private string name;
         private decimal price;
 
+        public int GetId() => id;
+        public void SetId(int id) => this.id = id;
+
         public void SetName(string name)
         {
             this.name = name;
