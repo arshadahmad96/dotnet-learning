@@ -1,0 +1,15 @@
+C:\Users\arshad.ahmad\Desktop\.net training\self\Day9-serialization\CollectionTestApp\bin\Debug\net9.0\CollectionTestApp.exe
+C:\Users\arshad.ahmad\Desktop\.net training\self\Day9-serialization\CollectionTestApp\bin\Debug\net9.0\CollectionTestApp.deps.json
+C:\Users\arshad.ahmad\Desktop\.net training\self\Day9-serialization\CollectionTestApp\bin\Debug\net9.0\CollectionTestApp.runtimeconfig.json
+C:\Users\arshad.ahmad\Desktop\.net training\self\Day9-serialization\CollectionTestApp\bin\Debug\net9.0\CollectionTestApp.dll
+C:\Users\arshad.ahmad\Desktop\.net training\self\Day9-serialization\CollectionTestApp\bin\Debug\net9.0\CollectionTestApp.pdb
+C:\Users\arshad.ahmad\Desktop\.net training\self\Day9-serialization\CollectionTestApp\obj\Debug\net9.0\CollectionTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arshad.ahmad\Desktop\.net training\self\Day9-serialization\CollectionTestApp\obj\Debug\net9.0\CollectionTestApp.AssemblyInfoInputs.cache
+C:\Users\arshad.ahmad\Desktop\.net training\self\Day9-serialization\CollectionTestApp\obj\Debug\net9.0\CollectionTestApp.AssemblyInfo.cs
+C:\Users\arshad.ahmad\Desktop\.net training\self\Day9-serialization\CollectionTestApp\obj\Debug\net9.0\CollectionTestApp.csproj.CoreCompileInputs.cache
+C:\Users\arshad.ahmad\Desktop\.net training\self\Day9-serialization\CollectionTestApp\obj\Debug\net9.0\CollectionTestApp.sourcelink.json
+C:\Users\arshad.ahmad\Desktop\.net training\self\Day9-serialization\CollectionTestApp\obj\Debug\net9.0\CollectionTestApp.dll
+C:\Users\arshad.ahmad\Desktop\.net training\self\Day9-serialization\CollectionTestApp\obj\Debug\net9.0\refint\CollectionTestApp.dll
+C:\Users\arshad.ahmad\Desktop\.net training\self\Day9-serialization\CollectionTestApp\obj\Debug\net9.0\CollectionTestApp.pdb
+C:\Users\arshad.ahmad\Desktop\.net training\self\Day9-serialization\CollectionTestApp\obj\Debug\net9.0\CollectionTestApp.genruntimeconfig.cache
+C:\Users\arshad.ahmad\Desktop\.net training\self\Day9-serialization\CollectionTestApp\obj\Debug\net9.0\ref\CollectionTestApp.dll
